@@ -36,11 +36,11 @@ waiting_time = 2
 # Personal values      
 given_name_value = ""       #   Example: "John"  
 surname_value = ""          #   Example: "Doe"
-nationality_index =  # index number starting from 0, explore the page
-email_value = "" # your email
-fam_app_index = # 1 for yes, 2 for no
-doc_index     = # 1 for yes, 2 for no
-doc_box_value = "" # your document number
+nationality_index =         # index number starting from 0, explore the page
+email_value = ""            # your email
+fam_app_index = 2           # Is this a family application? 1 for yes, 2 for no
+doc_index     = 1           # Do you have a document? 1 for yes, 2 for no
+doc_box_value = ""          # your document number
 
 # script logic
 while(True):
